@@ -1,5 +1,7 @@
 <?php
 
-echo "Hello GitHub";
+echo "<h1>Hello GitHub</h1>";
+echo "<br>";
+echo "<h2>Qa bot si kalut</h2>;
 
 ?>
